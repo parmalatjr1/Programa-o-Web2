@@ -1,0 +1,78 @@
+ <UNIME>
+ <SISTEMAS DE INFORMAÇÃO>
+ <PROGRAMAÇÃO PARA WEB 2>
+ <PROF. PABLO RICARDO ROXO SILVA>
+ <ALUNO. GERALDO ANTÔNIO DA SILVA JÚNIOR>
+ <ATIVIDADE OFICIAL 1 >
+
+body {
+	   margin: 0;
+	   background-color: #dbd5c9;	
+	   justify-content: center;
+	   align-items: center;
+     }
+	 
+	 .fundo{
+		 background-color: #dbd5c9;
+	    display: flex;
+	   justify-content: center;
+
+     }
+		 
+	 .titulo {
+	   display: flex;
+	   justify-content: center;
+	   background-color: #E8E8E8;
+       justify-content: center;
+     }
+	 
+	 .novo {
+	   display: flex;
+	   justify-content: center;
+	   background-color: #C1C1C1;  
+	   font-size:20px;
+     }
+	 
+	 .tabela {
+		background-color: #dbd5c9;
+	   display: flex;
+	   justify-content: center;
+
+     }
+	 
+	 .imagem{
+		 width: 100px;
+		 background-color: #FFFFFF; 
+	 }
+	 
+	 }
+	 
+	 .imagem2{
+		 width: 100px;
+		 background-color: #FFFFFF;
+	 }
+	 
+	 }
+	 
+	 .imagem3{
+		 width: 100px;
+		 background-color: #FFFFFF;
+	 }
+	 
+	 .img1{
+		 background-color: #FFFFFF;
+		 margin: 0;
+	     display: flex;
+
+	 }
+	  .img2{
+		 background-color: #FFFFFF;
+		 margin: 0;
+	     display: flex;
+
+	 }
+	  .img3{
+		 background-color: #FFFFFF;
+		 margin: 0;
+	    display: flex;
+	 }
